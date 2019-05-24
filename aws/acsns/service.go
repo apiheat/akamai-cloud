@@ -1,4 +1,4 @@
-package sns
+package acsns
 
 import (
 	"encoding/json"
