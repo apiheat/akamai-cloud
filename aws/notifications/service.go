@@ -1,4 +1,4 @@
-package acsns
+package notifications
 
 import (
 	"encoding/json"
